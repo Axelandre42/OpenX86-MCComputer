@@ -1,16 +1,2 @@
-# Gradle
-/.gradle
-/build
 
-# Eclipse
-/.classpath
-/.project
-/.settings
-/bin
-
-# Debugging
-/eclipse
-/run
-
-# OS X
-.DS_Store
+/bin/

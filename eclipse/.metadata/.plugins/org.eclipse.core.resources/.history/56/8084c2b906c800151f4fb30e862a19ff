@@ -1,0 +1,8 @@
+package net.axelandre42.mccomputer;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid = MCComputer.MODID, name = MCComputer.MODID, version = "0.01")
+public class MCComputer {
+	public static final String MODID = "OpenX86-MCComputer";
+}
